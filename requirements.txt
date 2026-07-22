@@ -1,5 +1,10 @@
 pandas 
 numpy 
 matplotlib 
+seaborn
+catboost
+xgboost
+Flask
+
 -e .
 
